@@ -1,0 +1,38 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #00BFFF;
+  color: #fff;
+  text-align: center;
+  padding: 60px 0;
+}
+
+.features {
+  padding: 40px;
+  text-align: center;
+}
+
+.feature {
+  margin-bottom: 40px;
+}
+
+.feature img {
+  max-width: 100%;
+  height: auto;
+}
+
+footer {
+  background-color: #ooffoo;
+  color: #0000;
+  text-align: center;
+  padding: 20px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
